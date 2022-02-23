@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of proceedings of the House of Commons, in relation to the East-India Company and trade</title>
+            <title>Proceedings. 1698.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38194</idno>
+            <idno type="STC">Wing E2502</idno>
+            <idno type="STC">ESTC R200375</idno>
+            <idno type="EEBO-CITATION">99825060</idno>
+            <idno type="PROQUEST">99825060</idno>
+            <idno type="VID">29432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2089:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of proceedings of the House of Commons, in relation to the East-India Company and trade</title>
+                  <title>Proceedings. 1698.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  India --  Early works to 1800.</term>
+               <term>India --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29432:1" rendition="simple:additions"/>
+            <head>An <hi>ABSTRACT</hi> of Proceedings of the Houſe of Commons, in Relation to the <hi>Eaſt-India Company</hi> and <hi>Trade.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Octob. </seg>28</label> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1691"/> A Petition of ſeveral Merchants and Traders about the City of <hi>London</hi> concerning the <hi>Eaſt-India</hi> Trade: And a Petition of the <hi>Eaſt-India</hi> Company, were preſented to the Houſe, and referred to a Com<g ref="char:EOLhyphen"/>mittee of the Whole Houſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29"/> Sir <hi>John Guiſe</hi> Reported from the ſaid Committee the following Reſolutions which were Read, and agreed to by the Houſe.</p>
+            <p>Reſolved,</p>
+            <list>
+               <item>1. <hi>That the</hi> Eaſt-India <hi>Trade is Neceſſary and Beneficial to this Kingdom.</hi>
+               </item>
+               <item>2. <hi>That the</hi> Eaſt-India <hi>Trade will be beſt Managed by a Joint Stock, excluſive to all others.</hi>
+               </item>
+               <item>3. <hi>That a Company to Trade to the</hi> Eaſt-Indies <hi>in a Joint Stock be Eſtabliſhed by Act of Parliament;</hi> And Ordered the then Company to lay before that Honour<g ref="char:EOLhyphen"/>able Houſe a true ſtate of their Stock and Debts at home and abroad.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Nov. </seg>14</label> Sir <hi>Joſeph Herne,</hi> the then Governor of the Company, delivered in ſeveral Accounts, as a ſtate of their Stock and Debts at home and abroad, which was referred to a Committee of the Whole Houſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dec. </seg>17</label> Sir <hi>John Guiſe</hi> (after Nine ſittings of the ſaid Committee of the Whole Houſe) Reported the Reſolutions of the ſaid Committee, which were read, and agreed to by the Houſe, and amongſt other things it was Reſolved;</p>
+            <p>
+               <hi>That a Sum not leſs than</hi> 1500000 <abbr>l</abbr> 
+               <hi>and not exceeding Two Millions, is a Fund Neceſſary to carry on the</hi> Eaſt-India <hi>Trade in a Joint Stock.</hi>
+            </p>
+            <p>
+               <hi>That no One Perſon ſhall have above One Vote in a Company Trading to the</hi> Eaſt-In<g ref="char:EOLhyphen"/>dies, <hi>and that each Perſon who has</hi> 500 <abbr>l</abbr> 
+               <hi>Stock therein, ſhall have One Vote.</hi>
+            </p>
+            <p>
+               <hi>That no private Contracts ſhall be made, but all Goods ſold at Publick Sales by Inch of Candle (except Salt-Petre for the Uſe of the Government.)</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dec. </seg>18</label> The ſaid Committee Reſolved;</p>
+            <p>
+               <hi>That the Members of the Committee of the</hi> Eaſt-India <hi>Company be obliged to give Security to be Approved of by the Houſe, That the Stock and Eſtate they then had, ſhould be made good</hi> 744000 <abbr>l</abbr> 
+               <hi>all Debts paid</hi> (which was 100 <hi>
+                  <abbr>l</abbr> per Cent.</hi> their Capital Stock being then called 744000 <abbr>
+                  <hi>l.</hi>
+               </abbr>)</p>
+            <p>
+               <hi>That Security being firſt given, an Humble Addreſs be preſented to His Majeſty, to Incorporate the preſent</hi> Eaſt-India <hi>Company by Charter, according to the Regulations agreed upon by the Houſe, that the ſame may paſs into an Act of Parliament.</hi>
+            </p>
+            <p>And the Committee of the <hi>Eaſt-India</hi> Company were ordered to attend the Houſe on the <hi>Wedneſday</hi> following, to give Security accordingly.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> Sir <hi>Thomas Cooke</hi> and others of the <hi>Eaſt-India</hi> Committee, delivered in Propo<g ref="char:EOLhyphen"/>ſals in Writing, ſigned by the Secretary concerning the ſaid Security, which Propoſal was,</p>
+            <p>
+               <hi>That Security be given that the Company's Stock is really worth as much as the Account delivered into the Houſe of Commons makes out.</hi>
+            </p>
+            <p>
+               <hi>That the ſaid Security be either by the Company's Common Seal, as hath been always done,</hi>
+            </p>
+            <p>
+               <hi>Or by every particular Adventurer's Perſonal Obligation for his own Stock.</hi>
+            </p>
+            <p>
+               <hi>Or by ſo many of the Principal Adventurers as ſhall be Approved of for the full Value of the Company's Stock, as it was given into the Houſe of Commons.</hi>
+            </p>
+            <p>Which Security was not approved by the Houſe, but the Committee of the <hi>Eaſt India</hi> Company were ordered on the <hi>Tueſday</hi> following to bring the Per<g ref="char:EOLhyphen"/>ſons they ſhall propoſe to the Houſe to be Security.</p>
+            <pb n="2" facs="tcp:29432:2"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Decmber </seg>29</label> The Committee of the <hi>Eaſt-India</hi> Company delivered in a Paper of the Names of the Perſons they propoſed to be Security, and the Sums for which each Perſon would be Security; many of which Perſons, attended there.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">January </seg>8</label> The Committee of the Company were called in to the Bar, and asked whe<g ref="char:EOLhyphen"/>ther the Perſons propoſed for Security, did know of the Regulations Voted by the Houſe, and conſented to by them. And whether they would give a Recognizance: To which they anſwered, <hi>That they ſubmitted to ſuch Regulati<g ref="char:EOLhyphen"/>ons as ſhould be paſſed into an Act, and that the Security ſhould be as the Houſe ſhould Direct.</hi>
+            </p>
+            <p>Whereupon the Houſe approved of their Security propoſed, and ordered a Bill to be brought in, to Eſtabliſh an <hi>Eaſt-India</hi> Company, according to the Regulations and Reſolutions agreed upon by the Houſe. And Mr. <hi>Finch,</hi> Sir <hi>Chriſtopher Muſgrave</hi> and others were appointed to bring in the Bill.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> Sir <hi>Chriſtopher Muſgrave</hi> preſented the Bill to the Houſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> The Bill was Read the Firſt time, and Ordered a Second Reading.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> The Bill was Read a Second time, and the Perſons propoſed by the Com<g ref="char:EOLhyphen"/>pany for Security 29th <hi>December</hi> laſt, were, after the Second Reading of the Bill, Ordered to attend the next Day, to give Security according to their Pro<g ref="char:EOLhyphen"/>poſals.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> The <hi>Eaſt-India</hi> Committee attending, were called in, and the Speaker ac<g ref="char:EOLhyphen"/>quainted them that there was a Bill brought in by the Order of the Houſe to Eſtabliſh an <hi>Eaſt-India</hi> Company. And that the preſent Adventurers might have a Stock therein, of 744000 <abbr>
+                  <hi>l.</hi>
+               </abbr> if they would give Security, That the Stock they then had ſhould be made good 744000 <abbr>
+                  <hi>l.</hi>
+               </abbr> all Debts paid; And that the Houſe gave them time till <hi>Tueſday</hi> then next, to give in an Anſwer to the ſaid Propoſition; And that the Houſe expected an Anſwer to be then given accordingly.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">February </seg>6</label> They gave in their Anſwer agreed upon by the General Court the Firſt of <hi>February,</hi> Wherein they refuſed giving Security as the Bill ſtood, pretending the ſame was not conſonant to the Vote and Reſolution of the 18th <hi>December,</hi> in the very Subſtance thereof, But in its whole Contexture tended to the De<g ref="char:EOLhyphen"/>ſtruction of the ſaid Company, by ſeveral Clauſes therein contained.</p>
+            <p>The Houſe took the ſaid Anſwer into Conſideration, and after Conſidera<g ref="char:EOLhyphen"/>tion had thereof it was</p>
+            <p>Reſolved,</p>
+            <p>
+               <hi>That an Humble Addreſs be made to His Majeſty to Diſſolve the preſent</hi> Eaſt-India <hi>Company, according to His Power reſerved in their Charter, and to Conſtitute another</hi> Eaſt-India <hi>Company, for the better preſerving of the</hi> Eaſt-India <hi>Trade to this King<g ref="char:EOLhyphen"/>dom, in ſuch manner as His Majeſty in his Royal Wiſdom ſhall think fit.</hi>
+            </p>
+            <p>Which Addreſs was preſented by the whole Houſe on the Tenth of <hi>February.</hi>
+            </p>
+            <p>Mr. Speaker reported His Majeſties Anſwer to the ſaid Addreſs as follows, <hi>viz.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+               <hi>That it was a Matter of very great Importance to the Trade of this Kingdom, and that it could not be expected that He ſhould give a preſent Anſwer to it, but that He would take time to conſider of it, and in a ſhort time give this Houſe His poſitive An<g ref="char:EOLhyphen"/>ſwer.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1692"/> Whereupon the next Seſſion, <hi>viz. Lunae</hi> 14. <hi>die Novembris.</hi> 1692.</p>
+            <p>Sir <hi>Edward Seymour</hi> acquaints the Houſe that he had a Meſſage from His Majeſty in Anſwer to the Addreſs of this Houſe the laſt Seſſion, in relation to the <hi>Eaſt-India</hi> Company, the which he delivered in Writing at the Table, where the ſame was read—in theſe Words, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>THE</hi> Houſe of Commons <hi>having preſented an</hi> Addreſs <hi>to the</hi> King, <hi>to</hi> Diſſolve the preſent <hi>Eaſt-India</hi> Company, <hi>according to the Power re<g ref="char:EOLhyphen"/>ſerved in their Charter, and to Conſtitute a</hi> New One, <hi>His</hi> Majeſty <hi>took into
+<pb n="3" facs="tcp:29432:2"/>Conſideration the proper Methods of complying with their Deſires, and of ſecuring effectually this Advantageous Trade to the</hi> Nation.</q>
+            </p>
+            <p>
+               <q>
+                  <hi>But His</hi> Majeſty <hi>upon Examination of the</hi> Charter, <hi>and conſulting His Judges and Learned Council, found that he could not Legally Diſſolve the</hi> Company, <hi>but upon Three Years warning; and that during the Three Years after warning, the</hi> Company <hi>muſt ſubſiſt, and might continue to Trade; and that tho' the</hi> King <hi>might conſtitute a</hi> New Company, <hi>yet He could not empower ſuch</hi> New Com<g ref="char:EOLhyphen"/>pany <hi>to Trade, till after Three Years: the</hi> Crown having expreſly Covenanted, not to Grant any ſuch Liberties.</q>
+            </p>
+            <p>
+               <q>
+                  <hi>Hereupon His</hi> Majeſty, <hi>was very apprehenſive of the ill conſequences of giving warning to the</hi> Company, <hi>becauſe they would be then leſs ſolicitous of promoting the true Intereſt and Advantage of the Trade, whereof they could not long reap the Fruits: And that no</hi> New Company <hi>could be immediately admitted to it:</hi> So that this very beneficial Trade, which is already ſo much impaired, might be in danger of being intirely loſt to the Nation.</q>
+            </p>
+            <p>
+               <q>
+                  <hi>His</hi> Majeſty <hi>being very deſirous to prevent ſo great a miſchief, and to gratifie the</hi> Houſe of Commons <hi>in the end, ſince he could not do it without great hazard in the manner they propoſed, required the</hi> Eaſt-India <hi>Company to anſwer directly, whether they would ſubmit to ſuch Regulations as His</hi> Majeſty <hi>ſhould judge proper, and moſt likely to advance the Trade:</hi> And the <hi>Company</hi> having fully agreed to it, <hi>and declared their Reſolution in Writing, His</hi> Majeſty <hi>commanded a</hi> Com<g ref="char:EOLhyphen"/>mittee <hi>of His</hi> Privy Council <hi>to prepare</hi> Regulations; <hi>which they did, and offered them to the</hi> Company: <hi>But</hi> the <hi>Company,</hi> notwithſtanding their De<g ref="char:EOLhyphen"/>claration of Submiſſion, rejected almoſt all the Material Particulars.</q>
+            </p>
+            <p>
+               <q>
+                  <hi>So that His</hi> Majeſty <hi>finding, That what poſſibly the</hi> Houſe of Commons <hi>might have expected, and <hi>Indeed was neceſſary to preſerve this Trade, could not be perfected by his own Authority alone;</hi> and that the</hi> Com<g ref="char:EOLhyphen"/>pany <hi>could not be induced to conſent to any ſuch</hi> Regulations, <hi>as might have an<g ref="char:EOLhyphen"/>ſwered</hi> the Intentions of the Houſe of Commons; <hi>and <hi>That the Con<g ref="char:EOLhyphen"/>currence of the Parliament is requiſite to make a complete and uſeful Settlement of this Trade,</hi> has directed all the Proceedings in this matter to be laid before them, and recommends to them the preparing of ſuch a Bill, in order to paſs into an Act of</hi> Parliament, <hi>as may Eſtabliſh this Trade on ſuch Foundations as are moſt likely to preſerve and advance it.</hi>
+               </q>
+            </p>
+            <p>Upon this Meſſage, the Honorable Houſe of Commons took the ſame, and the Regulating the <hi>Eaſt India</hi> Trade into Conſideration, and</p>
+            <p>Reſolved, <hi>Nemine Contradicente,</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> 
+               <hi>That a Bill be brought in for the Regulating, Preſerving, and Eſtabliſhing the</hi> Eaſt India <hi>Trade to this Kingdom: And that a Committee of the Whole Houſe Conſider of Heads for the ſaid Bill.</hi>
+            </p>
+            <p>The ſaid Committee went through the Heads. Which</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Dec. </seg>7</label> Mr. <hi>Smith</hi> reported to the Houſe, and were agreed to by them; Which were the ſame almoſt in ſubſtance as the Regulations agreed on in 1691. <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+               <hi>But in theſe Votes no Proviſion was made to make the Old Companies Stock any part of the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ew.</hi>
+            </p>
+            <p>The ſame day a Bill was Ordered to be brought in.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> The Bill was brought in, and Read the firſt time, and Ordered a ſecond Reading.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> The Bill was Read a ſecond time, and Committed to a Committee of the Whole Houſe.</p>
+            <p>After three Sittings, and nine Adjournments of the ſaid Committee of the Whole Houſe, The ſaid Bill being greatly obſtructed by the then Companies great Oppoſition; and it drawing towards the end of the Seſſion, the Houſe deſpairing of going through the ſaid Bill,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Febr. </seg>25</label> Reſolved,</p>
+            <p>
+               <hi>That an Humble Addreſs be preſented to His Majeſty, That he will Diſſolve the</hi> Eaſt-India-Company <hi>upon Three years warning to the ſaid Company, according to the Power reſerved in their Charter.</hi>
+            </p>
+            <pb n="4" facs="tcp:29432:3"/>
+            <p>Which Addreſs was preſented by the Whole Houſe.</p>
+            <p>The Speaker Reported His Majeſty's Anſwer:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">March </seg>3</label> Gentlemen,</p>
+            <p>
+               <hi>I will always do all the Good in my Power for this Kingdom, and I will conſider your Addreſs.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1693"/> 
+               <label type="milestone">
+                  <seg type="milestoneunit">March </seg>25</label> The Company made a wilful Forfeiture of their Charter by the Non payment of the Tax; And by that Means, and on pretence of the Hardſhip it would be to them to take Advantage of the ſaid Forfeiture; And by an Induſtrious Application, <milestone type="tcpmilestone" unit="unspecified" n="1693"/> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Oct. </seg>7</label> they procured a New Charter; And ſo far were their Majeſties from taking Advantage of the ſaid Forfeiture, that in the Preamble of their ſaid New Charter, Their Majeſties declare, They Granted the ſame to prevent the Damage and Inconvenience that would attend the taking Advantage of the ſaid Forfeiture.</p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1693"/> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Jan. </seg>10</label> The very next Seſſions after this New Charter, the Houſe of Commons Voted,</p>
+            <p>
+               <hi>That all the Subjects of</hi> England <hi>have <hi>Equal Right</hi> to Trade to the</hi> Eaſt-Indies, <hi>unleſs Prohibited by Act of Parliament</hi>
+            </p>
+            <p>After that, the Free Traders carried on their Trade thither as they ſaw fit; but the Old Company (not contented to enjoy an equal Liberty with their Fellow Subjects, and the extraordinary Advantages they pretended to have by their Charter and Settlements in <hi>India</hi>) did, in their General Court held the 14th <hi>April</hi> 1698, Agree the following Propoſal:</p>
+            <p>
+               <hi>THat by ſetling the</hi> Eaſt-India <hi>Company, a Loan of</hi> 700000 <abbr>l</abbr> 
+               <hi>may be made to His Majeſty on the Terms following:</hi>
+            </p>
+            <p>
+               <hi>That the Stock of the preſent Company be valued at</hi> 50 per Cent. <hi>and that Books for taking new Subſcriptions be laid open for the Subſcribing of</hi> 712696 <abbr>l</abbr> 
+               <hi>to make up the Stock in the whole</hi> 1500000 <abbr>l</abbr>
+            </p>
+            <p>
+               <hi>That no Perſon Subſcribe leſs then</hi> 100 <abbr>l</abbr> 
+               <hi>or more then</hi> 10000 <abbr>l</abbr>
+            </p>
+            <p>
+               <hi>That</hi> 700000 <abbr>l</abbr> 
+               <hi>be Lent, and paid in Four equal Payments, in ſuch Convenient time as ſhall be agreed on.</hi>
+            </p>
+            <p>
+               <hi>That the preſent Adventurers and new Subſcribers be ſetled by Act of Parliament, excluſive of all others, for Thirty one years, with ſuch Powers and Priviledges, as will enable them to Carry on and Preſerve the Trade.</hi>
+            </p>
+            <p>
+               <hi>That the Sum of</hi> 700000 <abbr>l</abbr> 
+               <hi>be Repaid, with Intereſt, out of ſuch Parliamentary Funds as will Repay the Principal and Intereſt in  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  years.</hi>
+            </p>
+            <p>
+               <hi>This may probably take Effect, according to the Goodneſs of the Fund, and the Encouragement given by the Act.</hi>
+            </p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1698"/> 
+               <label type="milestone">
+                  <seg type="milestoneunit">May </seg>4</label> This was preſented to the Houſe of Commons by the then Governor of the Company.</p>
+            <p>And after conſideration thereof in a Committee of the Whole Houſe, The Houſe Impowered the Committee of Ways and Means to receive Propoſals for ſettling the Trade to the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>Hereupon the Free Traders (being unwilling to be deprived of a Traffick to which they had for many years applied themſelves) ſet on foot a Subſcrip<g ref="char:EOLhyphen"/>tion for Lending a Sum not exceeding Two Millions, on an undoubted Fund of 8 <hi>
+                  <abbr>l</abbr> per Cent. per Annum.</hi> And when about 1300000 <abbr>
+                  <hi>l.</hi>
+               </abbr> was Subſcribed, they preſented the ſame to the ſaid Committee; Which was Received, The Fund thereupon ſetled, The Bill brought in and paſſed into an Act.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">June </seg>10</label> The Old Company made a Propoſal to the Houſe to raiſe ſo much Money for the Service of the Government as the Fund of 8 <hi>
+                  <abbr>l</abbr> per Cent,</hi> will amount un<g ref="char:EOLhyphen"/>to, not exceeding Two Millions, Provided they be ſettled by Act of Parliament excluſive of all others, with ſuch Powers and Priviledges as will Enable them to carry on the Trade, and their Old Stock be valued at 50 <hi>
+                  <abbr>l</abbr> per Cent.</hi>
+            </p>
+            <p>Which Propoſal was in effect to throw out that Bill after the Tenth of <hi>June,</hi> and bring in a new Bill, to be Formed according to their own Minds: For they did not offer it upon the Terms of the Act as it then was; Nor with the Powers and Priviledges then in the Act: But for them to be excluſive of all others, and to have ſuch Powers and Priviledges as would Enable them to car<g ref="char:EOLhyphen"/>ry on the Trade, but don't ſay what thoſe Powers or Priviledges were.</p>
+            <p>So that the Old Company muſt thank themſelves for this Act, ſince it was they firſt went into Parliament to get an Act to deprive the Free-Traders of their Natural Right to the ſaid Trade, and to Engroſs it to themſelves.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
